@@ -1,0 +1,2 @@
+hello()
+icp_combine( path = "W:/R/icp-functions/data", plot_id = 856, start_year = 2010, end_year = 2020, file_type = ".lfm")
